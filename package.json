@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NzzyYkky/typescript-for-javascript-develope/issues"
   },
-  "homepage": "https://github.com/NzzyYkky/typescript-for-javascript-develope#readme"
+  "homepage": "https://github.com/NzzyYkky/typescript-for-javascript-develope#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
